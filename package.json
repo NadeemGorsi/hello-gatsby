@@ -18,7 +18,7 @@
     "esri-leaflet-geocoder": "2.2.13",
     "gatsby": "^2.22.15",
     "gatsby-plugin-react-leaflet": "^2.0.13",
-    "jspdf": "1.4.1",
+    "jspdf": "2.3.1",
     "leaflet": "^1.6.0",
     "leaflet-image": "^0.4.0",
     "react": "^16.12.0",
